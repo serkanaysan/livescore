@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Live Goal Score</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="facebook_app_id">264077027469813</string>
+    <string name="fb_login_protocol_scheme">fb264077027469813</string>
+
+</resources>
